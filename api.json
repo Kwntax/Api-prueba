@@ -20,7 +20,7 @@
 		                "status": {
 		                    "condition": 1,
 		                    "description": "Warning",
-		                    "icon": "https://i.imgur.com/eDmqzWr.png",
+		                    "icon": "https://i.imgur.com/DkfEwXs.png",
 		                    "value": 40
 		                }
 	            	},
@@ -121,7 +121,7 @@
 		                    "description": "Ok",
 		                    "icon": "https://i.imgur.com/eDmqzWr.png",
 		                    "value": 30
-		                }
+		            }
 			        }
 	            ]
         	}
