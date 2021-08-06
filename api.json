@@ -66,7 +66,259 @@
 			  "zone_temperature": 15
 			}
 		  ]
-		}
+		},
+		{
+			"stru_id": 1, 
+			"stru_name": "Production Sector 2 ", 
+			"stru_description": "ok", 
+			"stru_icon": "https://i.imgur.com/CjZYXL2.png", 
+			"zone": [
+			  {
+				"zone_id": 1, 
+				"zone_name": "Wall #1", 
+				"zone_floor": 1, 
+				"zone_condition": 1, 
+				"zone_icon": "https://i.imgur.com/DkfEwXs.png", 
+				"zone_description": "Warning", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 35000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 2, 
+				"zone_name": "Wall #2", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 3, 
+				"zone_name": "Wall #3", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 4, 
+				"zone_name": "Wall #4", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 5, 
+				"zone_name": "Ceiling", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }
+			]
+		  },
+		  {
+			"stru_id": 1, 
+			"stru_name": "Production Sector 3", 
+			"stru_description": "ok", 
+			"stru_icon": "https://i.imgur.com/CjZYXL2.png", 
+			"zone": [
+			  {
+				"zone_id": 1, 
+				"zone_name": "Wall #1", 
+				"zone_floor": 1, 
+				"zone_condition": 1, 
+				"zone_icon": "https://i.imgur.com/DkfEwXs.png", 
+				"zone_description": "Warning", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 35000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 2, 
+				"zone_name": "Wall #2", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 3, 
+				"zone_name": "Wall #3", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 4, 
+				"zone_name": "Wall #4", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 5, 
+				"zone_name": "Ceiling", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }
+			]
+		  },
+		  {
+			"stru_id": 1, 
+			"stru_name": "Production Sector 4", 
+			"stru_description": "ok", 
+			"stru_icon": "https://i.imgur.com/CjZYXL2.png", 
+			"zone": [
+			  {
+				"zone_id": 1, 
+				"zone_name": "Wall #1", 
+				"zone_floor": 1, 
+				"zone_condition": 1, 
+				"zone_icon": "https://i.imgur.com/DkfEwXs.png", 
+				"zone_description": "Warning", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 35000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 2, 
+				"zone_name": "Wall #2", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 3, 
+				"zone_name": "Wall #3", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 4, 
+				"zone_name": "Wall #4", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 5, 
+				"zone_name": "Ceiling", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }
+			]
+		  },
+		  {
+			"stru_id": 1, 
+			"stru_name": "Production Sector 5", 
+			"stru_description": "ok", 
+			"stru_icon": "https://i.imgur.com/CjZYXL2.png", 
+			"zone": [
+			  {
+				"zone_id": 1, 
+				"zone_name": "Wall #1", 
+				"zone_floor": 1, 
+				"zone_condition": 1, 
+				"zone_icon": "https://i.imgur.com/DkfEwXs.png", 
+				"zone_description": "Warning", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 35000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 2, 
+				"zone_name": "Wall #2", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 3, 
+				"zone_name": "Wall #3", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 4, 
+				"zone_name": "Wall #4", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }, 
+			  {
+				"zone_id": 5, 
+				"zone_name": "Ceiling", 
+				"zone_floor": 1, 
+				"zone_condition": 0, 
+				"zone_icon": "https://i.imgur.com/eDmqzWr.png", 
+				"zone_description": "Ok", 
+				"zone_time": "2021-07-15T15:42:54", 
+				"zone_bend": 30000, 
+				"zone_temperature": 15
+			  }
+			]
+		  }
 	  ]
 	}
   ]
