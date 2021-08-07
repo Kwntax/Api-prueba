@@ -68,7 +68,7 @@
 		  ]
 		},
 		{
-			"stru_id": 1, 
+			"stru_id": 2, 
 			"stru_name": "Production Sector 2 ", 
 			"stru_description": "ok", 
 			"stru_icon": "https://i.imgur.com/CjZYXL2.png", 
@@ -131,7 +131,7 @@
 			]
 		  },
 		  {
-			"stru_id": 1, 
+			"stru_id": 3, 
 			"stru_name": "Production Sector 3", 
 			"stru_description": "ok", 
 			"stru_icon": "https://i.imgur.com/CjZYXL2.png", 
@@ -194,7 +194,7 @@
 			]
 		  },
 		  {
-			"stru_id": 1, 
+			"stru_id": 4, 
 			"stru_name": "Production Sector 4", 
 			"stru_description": "ok", 
 			"stru_icon": "https://i.imgur.com/CjZYXL2.png", 
@@ -257,7 +257,7 @@
 			]
 		  },
 		  {
-			"stru_id": 1, 
+			"stru_id": 5, 
 			"stru_name": "Production Sector 5", 
 			"stru_description": "ok", 
 			"stru_icon": "https://i.imgur.com/CjZYXL2.png", 
